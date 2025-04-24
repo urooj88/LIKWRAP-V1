@@ -5,9 +5,9 @@ LIKWRAP:	Measure the total energyconsumption of data parallel kernel while runni
 
 **Required Software:**
 
-1.Likwid perfctor.//
-2.Python compiler.//
-3.Linux OS(Ubuntu, Fedora, etc.)//
+1.	Likwid perfctor.
+2.	Python compiler.
+3.	Linux OS(Ubuntu, Fedora, etc.)
 
 **Help and Understang:**
 
