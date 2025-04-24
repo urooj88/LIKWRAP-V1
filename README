@@ -34,7 +34,7 @@ Supported Architectures:
 
 How To Use:
 
-python3 <scriptname> --app-type serial
+python3 <scriptname> --app-type parallel
 
 python3 run_measure_energy_pmxm_likwid.py --app-type parallel
 
