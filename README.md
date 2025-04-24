@@ -28,4 +28,12 @@ https://hpc.fau.de/research/tools/likwid/
 
 **How To Use:**
 
-python3 <scriptname> --app-type serial
+python3 <scriptname> --app-type paralle
+
+python3 run_measure_energy_pmxm_likwid.py --app-type parallel
+
+
+
+
+
+
